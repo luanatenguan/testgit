@@ -8,6 +8,12 @@ public class Main {
 		TesteGit1 teste = new TesteGit1();
 		
 		teste.imprimirNome("luana");
+		
+		Idade testarIdade = new Idade();
+		
+		Boolean verificandoIdade = testarIdade.verificaMaioridade(16);
+		
+		System.out.println(verificandoIdade);
 	}
 
 }
