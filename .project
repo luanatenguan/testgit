@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/teste1/Idade.java</name>
+			<type>1</type>
+			<location>/Users/lutenguan/Documents/Development/Java/teste/githubteste/testgit/src/teste1/Idade.java</location>
+		</link>
+	</linkedResources>
 </projectDescription>
